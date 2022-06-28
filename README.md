@@ -1,1 +1,2 @@
-
+# Pasta de projetos iniciais
+Esta é uma pasta onde contém os projetos de aprendizagem sobre a linguagem Python. Alguns são projetos feitos a partir de passo a passo, onde fui acompanhando o material de estudo, os demais são atividades e desafios propostos com o intuito de melhorar minhas soft skills.
